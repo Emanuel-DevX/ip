@@ -6,6 +6,7 @@
     width: 2000px;
     height: 50px;
     padding-left: 15px;
+    align-items: flex-start;
     
 }
 a{
@@ -42,8 +43,10 @@ a :hover{
 
 }
 #sub:hover{
-    background-color: rgb(26, 190, 135);
-    opacity: 0.9;
+    background-color: rgba(1, 1, 1, 0.8);
+    color: #dd0000;
+    text-shadow: #ffffff;
+
 
 
 }
