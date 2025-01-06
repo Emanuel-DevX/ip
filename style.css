@@ -1,0 +1,45 @@
+body {
+    background-color: #232323;
+    color: yellow;
+  }
+  
+  p {
+    font-family: arial;
+    font-size: 15px;
+    color: white;
+  }
+  h1{
+    position: fixed;
+    top: 10px;
+  }
+  
+  div {
+    background-color: rgba(10,10,10,0.3);
+    width: 500px;
+    height: 80px;
+    padding:20px;
+    align-content: center;
+    color: whitesmoke;
+  }
+  button{
+    background-color: rgba(1,1,1,0.8);
+    display: inline-block;
+    align-content: space-evenly;
+    width: 100px;
+    height:30px;
+    color: #ddee11;
+  text-shadow: 1px 0.8px #11bbee;
+  
+  }
+  button:hover{
+    background-color:yellow;
+    color: black;
+  }
+  footer{
+    position: fixed;
+    bottom: 10px;
+    align-content: center;
+  }
+  hr{
+    margin-bottom: 100px;
+  }
